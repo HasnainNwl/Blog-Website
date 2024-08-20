@@ -60,7 +60,7 @@ header {
 /* Hero Section Styles */
 .hero {
     height: 100vh; /* Full viewport height */
-    background: url('hero-background.jpg') no-repeat center center/cover;
+    background: url('./imgs/portfolio/app-3.jpg') no-repeat center center/cover;
     display: flex;
     justify-content: center;
     align-items: center;
